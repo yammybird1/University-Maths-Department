@@ -1,0 +1,124 @@
+#homeH1 {
+    color: royalblue;
+    font-family: "Lucida Console", Courier, monospace;
+    font-size: 50px;
+    text-align: center;
+}
+
+#homeH2 {
+    text-align: center;
+    padding-top: 40px;
+}
+
+#welcome {
+    color: midnightblue;
+    font-family: 'Source Sans Pro Black', sans-serif;
+    font-size: 40px;
+}
+
+#grass {
+    color: #ADFF2F;
+    font-family: 'Source Sans Pro Black', sans-serif;
+    font-size: 28px;
+}
+
+#nutrition {
+    color: #ADFF2F;
+    font-family: 'Source Sans Pro Black', sans-serif;
+    font-size: 28px;
+}
+
+#unicode {
+    text-align:center;
+    display:flex;
+    justify-content:space-around;
+    border-top: 1px solid #00008B;
+    border-bottom: 1px solid #00008B;
+    background-color:#3090C7; 
+    margin-bottom: 40px;
+}
+
+#homeP {
+    color: white;
+    font-family: 'Source Sans Pro Black', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    border-radius: 4px;
+    padding-top: 35px;
+    background-color: #38ACEC;
+}
+
+#students {
+    border: 4px dotted #00008B;  
+    border-radius: 4px; 
+    max-width: 100%;
+    height: auto;
+    width: auto\9;
+}
+
+#directoryH2 {
+    color: royalblue;
+    font-family: "Lucida Console", Courier, monospace;
+    font-size: 50px;
+    text-align: center;
+}
+
+#coursesH2 {
+    color: royalblue;
+    font-family: "Lucida Console", Courier, monospace;
+    font-size: 50px;
+    text-align: center;
+}
+
+#infographicsH2 {
+    color: royalblue;
+    font-family: "Lucida Console", Courier, monospace;
+    font-size: 50px;
+    text-align: center;
+}
+
+#coursesContainer {
+    max-width: 100%;
+    height: auto;
+    width: auto\9;
+}
+
+#logoContainer {
+    max-width: 100%;
+    height: auto;
+    width: auto\9;
+}
+
+.home-show{
+    display:block;
+}
+
+.home-hide{
+    display:none;
+}
+
+.directory-show{
+    display:block;
+}
+
+.directory-hide{
+    display:none;
+}
+
+.courses-show{
+    display:block;
+}
+
+.courses-hide{
+    display:none;
+}
+
+.infographics-show{
+    display:block;
+}
+
+.infographics-hide{
+    display:none;
+}
+
+
